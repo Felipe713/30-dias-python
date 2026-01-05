@@ -5,6 +5,7 @@ Este repositorio documenta mi progreso día a día siguiendo el desafío
 
 ## 📚 Estructura
 
+```text
 30DIASDEPYTHON/
 ├── day01/
 │ ├── day01.py
