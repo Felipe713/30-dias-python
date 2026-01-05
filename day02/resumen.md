@@ -17,6 +17,7 @@ Aprender a usar variables y comprender los tipos de datos básicos en Python.
 ```python
 edad = 30
 altura = 1.75
+```
 
 ## Entrada de datos
 - La función input() siempre devuelve string
@@ -25,3 +26,4 @@ altura = 1.75
 ## Ejemplo
 ```python
 edad = int(input("Ingresa tu edad: "))
+```

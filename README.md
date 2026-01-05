@@ -14,6 +14,7 @@ Este repositorio documenta mi progreso día a día siguiendo el desafío
 │ ├── day02.py
 │ └── resumen.md
 └── README.md
+```
 
 
 ## 🎯 Objetivo
